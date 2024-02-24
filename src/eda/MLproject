@@ -3,4 +3,6 @@ conda_env: conda.yml
 
 entry_points:
   main:
-    command: jupyter notebook
+    command: >-
+         jupyter lab --ZMQChannelsWebsocketConnection.iopub_msg_rate_limit=1.0e10 \
+                     --ZMQChannelsWebsocketConnection.rate_limit_window=30.0
