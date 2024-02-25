@@ -33,7 +33,7 @@ In this project you will build such a pipeline.
 
 ## Preliminary steps
 ### Fork the Starter kit
-Go to [https://github.com/udacity/build-ml-pipeline-for-short-term-rental-prices.git](https://github.com/udacity/build-ml-pipeline-for-short-term-rental-prices.git)
+Go to [https://github.com/dbaeza0/build-ml-pipeline-for-short-term-rental-prices] (https://github.com/dbaeza0/build-ml-pipeline-for-short-term-rental-prices)
 and click on `Fork` in the upper right corner. This will create a fork in your Github account, i.e., a copy of the
 repository that is under your control. Now clone the repository locally so you can start working on it:
 
